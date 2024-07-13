@@ -8,5 +8,5 @@ cursor.execute("show databases")
 data = cursor.fetchall()
 
 print(data)
-
+# sample
 conn.close()
