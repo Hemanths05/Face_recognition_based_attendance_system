@@ -85,7 +85,7 @@ class Developer:
         hlp_b1_1.place(x=940,y=380,width=180,height=45)
 
 
-
+# sample
 
 if __name__ == "__main__":
     root=Tk()
