@@ -8,7 +8,7 @@ import mysql.connector
 import numpy as np
 from tkinter import messagebox
 from datetime import datetime
-
+# sample
 class Face_Recognition:
     def __init__(self, root):
         self.root = root
