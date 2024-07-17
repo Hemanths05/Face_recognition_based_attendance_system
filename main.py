@@ -9,7 +9,7 @@ from attendance import Attendance
 from developer import Developer
 import os
 from helpsupport import Helpsupport
-
+#sampleS
 class Face_Recognition_System:
     def __init__(self,root):
         self.root=root
